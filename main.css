@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+a{
+    color: blueviolet;
+}
+a:hover{
+    opacity: 50%;
+}
+.caption{
+    color: grey;
+    line-height: 0;
+}
+h1, h2{
+    font-family: 'Bakbak One', cursive;
+    color: blueviolet;
+}
+header{
+    background-color: yellow;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1{
+    font-size: 50px;
+    color: black;
+}
+header h2{
+    color: black;
+}
+header img{
+    border-radius: 160px;
+    width: 300px;
+    border: 10px solid blueviolet;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+main img{
+    max-width: 100%;
+}
+main h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: yellow;
+    line-height: 0;
+    padding: 20px;
+}
+.foot{
+    font-weight: bold;
+    font-size: 15px;
+}
